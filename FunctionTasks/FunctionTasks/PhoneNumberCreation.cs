@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FunctionTasks
 {
-    public class Kata
+    public class PhoneNumberCreation
     {
         public static string CreatePhoneNumber(int[] numbers)
         {
